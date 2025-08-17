@@ -1,0 +1,1 @@
+console.log("¡Hola, mundo! Soy un futuro Full Stack Developer 🚀")
